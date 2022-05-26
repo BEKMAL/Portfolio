@@ -10,7 +10,6 @@
   position: absolute;
   width: 375px;
   height: 718px;
-  background: #ffffff;
   background-image: url("background.png");
   background-repeat: no-repeat;
 }
@@ -39,7 +38,6 @@
   margin-top: 206px;
   margin-left: 24px;
   margin-right: 24px;
-  font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -72,7 +70,6 @@
   width: 200px;
   height: 24px;
   text-decoration: none;
-  font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
