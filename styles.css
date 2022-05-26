@@ -1,18 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 .main {
   position: absolute;
   width: 375px;
   height: 718px;
-  left: 0px;
-  top: 0px;
   background: #ffffff;
   background-image: url("background.png");
   background-repeat: no-repeat;
 }
+
 .logo {
   position: absolute;
   top: 40px;
