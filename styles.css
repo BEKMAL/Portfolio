@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +24,7 @@
   color: #6070ff;
   text-decoration: none;
 }
+
 .navbar {
   position: absolute;
   top: 30px;
@@ -30,6 +32,7 @@
   padding: 36px;
   color: #acb7c3;
 }
+
 .primarytext {
   width: 327px;
   height: 150px;
@@ -48,6 +51,7 @@
   order: 0;
   flex-grow: 0;
 }
+
 .text2 {
   width: 327px;
   height: 146px;
@@ -63,6 +67,7 @@
   order: 1;
   flex-grow: 0;
 }
+
 .connect {
   width: 200px;
   height: 24px;
@@ -78,10 +83,12 @@
   order: 0;
   flex-grow: 0;
 }
+
 .socialm {
   width: 200.17px;
   height: 20px;
 }
+
 ul li {
   display: inline;
   list-style-type: none;
