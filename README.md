@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-Portfolio: setup and mobile version skeleton
+Portfolio 
 
-> Description the project:A simple portofli page 
+> Description the project:This project is the first time to make my personal portfolio with microvese using figma and flexbox concept
 
 
 ## Built With
@@ -12,28 +12,19 @@ Portfolio: setup and mobile version skeleton
 - Frameworks:none
 - Technologies used:figma and flexbox concepts
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-
-
-
-
-
 ## Authors
 
 👤 **Bekalu**
 
-- GitHub: [@BekMAl](https://github.com/githubhandle)
-- Twitter: [@Bekalutsehay](https://twitter.com/twitterhandle)
-- LinkedIn: [Bekalu-malede](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/BEKMAL
+- Twitter: https://twitter.com/BekaluTsehay
+- LinkedIn: https://www.linkedin.com/in/bekalu-malede/
 
 ## 🤝 Contributing
 
